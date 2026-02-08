@@ -42,6 +42,7 @@ export class Page4UClient {
 
     const headers: Record<string, string> = {
       Authorization: `Bearer ${this.apiKey}`,
+      'X-Page4U-Client': 'cli',
     };
 
     let fetchBody: string | FormData | undefined;
