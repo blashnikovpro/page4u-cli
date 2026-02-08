@@ -31,7 +31,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/page4u/page4u-cli.git"
+    "url": "git+https://github.com/blashnikovpro/page4u-cli.git"
   },
   "homepage": "https://page4u.ai",
   "engines": {
